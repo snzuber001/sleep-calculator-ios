@@ -1,5 +1,6 @@
-# Learning-Journal
+# Learning Journal
 
-This document records the major learnings of the project
+This document records the major lessons learned throughout the project.
 
-As the project advances efforts will be made to keep this journal to only the most salient points.
+As the project advances, this journal will focus on the most salient information.
+
